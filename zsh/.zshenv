@@ -1,0 +1,2 @@
+# append
+path+=('/~/.local/bin')
